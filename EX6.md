@@ -41,6 +41,7 @@ END;
 /
 ```
 ### Output:
+![4](https://github.com/Mothesh-M127/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/94170892/0406e300-afc2-4745-a106-98592148fa07)
 
 ### Result:
     Thus, a cursor using PL/SQL is executed successfully.
